@@ -1,2 +1,0 @@
-echo "hellow world";
-ojhjkl
